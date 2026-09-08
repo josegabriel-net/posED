@@ -1,4 +1,4 @@
 # posED
 Aula pratica
 
-Versão atualizada 2.o
+Versão atualizada 2.0
